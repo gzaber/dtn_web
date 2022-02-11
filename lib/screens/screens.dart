@@ -1,0 +1,15 @@
+export 'home_screen.dart';
+export 'about_screen.dart';
+export 'offer_screen.dart';
+export 'certificates_screen.dart';
+export 'contact_screen.dart';
+export 'desktop/home_screen_desktop.dart';
+export 'desktop/about_screen_desktop.dart';
+export 'desktop/offer_screen_desktop.dart';
+export 'desktop/certificates_screen_desktop.dart';
+export 'desktop/contact_screen_desktop.dart';
+export 'mobile/home_screen_mobile.dart';
+export 'mobile/about_screen_mobile.dart';
+export 'mobile/offer_screen_mobile.dart';
+export 'mobile/certificates_screen_mobile.dart';
+export 'mobile/contact_screen_mobile.dart';

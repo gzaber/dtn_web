@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+    ".dart_tool": true,
+    ".idea": true,
+    "android": true,
+    "build": true,
+    "ios": true,
+    "web": true,
+    ".gitignore": true,
+    ".metadata": true,
+    ".packages": true,
+    "dtn_web.iml": true,
+    "pubspec.lock": true
+  }
+}
