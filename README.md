@@ -1,10 +1,9 @@
 # dtn_web
 
-DTN Digital Telecommunication Networks company website.  
+Website of a friendly company.
 
 Live preview:  
 http://dtn.com.pl
-
 
 ## Screenshots
 
@@ -12,6 +11,7 @@ http://dtn.com.pl
 [<img alt="View in a mobile browser" width="100px" src="_screenshots/dtn_web_mobile.png" />](_screenshots/dtn_web_mobile.png)
 
 ## Technologies
+
 - Dart
 - Flutter
 
