@@ -1,6 +1,6 @@
 # dtn_web
 
-Website of a friendly company.
+Website created for an engineering company.
 
 Live preview:  
 http://dtn.com.pl
@@ -17,9 +17,28 @@ http://dtn.com.pl
 
 ## Setup
 
-Clone this repo and run `flutter pub get` to install all the packages.
+Use the following command to install all the dependencies:
+
+```
+flutter pub get
+```
+
+Use the following command to update all the dependencies to the latest compatible versions:
+
+```
+flutter pub upgrade
+```
+
+Use the following command to create platform-specific folders:
+
+```
+flutter create .
+```
 
 ## Launch
 
-Run web app using Flutter documentation:  
-https://docs.flutter.dev/get-started/web
+Run the application using your IDE or using the following command:
+
+```
+flutter run -d chrome
+```
