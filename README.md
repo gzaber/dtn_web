@@ -7,8 +7,8 @@ http://dtn.com.pl
 
 ## Screenshots
 
-[<img alt="View in a desktop browser" width="400px" src="_screenshots/dtn_web_desktop.png" />](_screenshots/dtn_web_desktop.png)
-[<img alt="View in a mobile browser" width="100px" src="_screenshots/dtn_web_mobile.png" />](_screenshots/dtn_web_mobile.png)
+[<img alt="View in a desktop browser" width="600px" src="_screenshots/dtn_web_desktop.png" />](_screenshots/dtn_web_desktop.png)
+[<img alt="View in a mobile browser" width="200px" src="_screenshots/dtn_web_mobile.png" />](_screenshots/dtn_web_mobile.png)
 
 ## Technologies
 
